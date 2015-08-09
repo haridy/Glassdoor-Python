@@ -1,7 +1,8 @@
 # Glassdoor-Python
 Contains function to fetch public company profile from Glassdoor API (http://www.glassdoor.com/api/companiesApiActions.htm)
 
-To install just download the .py file and use it directly. Feel free to change and redistribute it, it's simple and anyone with any level of Python skills should be able to read and change it.
+To install just download the .py file and put your PartnerID and API Key in the global variables. 
+Feel free to change and redistribute it, it's simple and anyone with any level of Python skills should be able to read and change it.
 
 The module is a simple one file with 2 function calls and a class.
 
